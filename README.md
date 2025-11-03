@@ -10,5 +10,7 @@ This project demonstrates:
 - Making commits
 - Pushing changes to GitHub
 
+ Modification in main branch.
+
 ## Author
 Nancy Mwende
